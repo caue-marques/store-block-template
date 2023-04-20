@@ -1,3 +1,3 @@
-# Store Block course template
+# Store Block Template
 
-Here you'll learn how to create awesome Store Framework blocks!
+### Repo para usar juntamente com o repo "Store-Theme"
